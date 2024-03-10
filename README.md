@@ -1,4 +1,8 @@
 # Crestron-Pushover-Module
+
+v1.1 - Add's support for PushOver's URL attribute.  Unfortunately, my testing showed that this doesn't work to open an app.  It only works to open a webpage from a notification.  Other people in the
+PushOver community have reported this problem.  PushOver has not implemented a fix.
+
 Licensing
 
 The Prowl notifications module, PushOver notifications module, and Vybit notifications module all provides the ability for a Crestron program to send push notifications to a homeowner's smart phone and/or tablet.   With these modules you can, for example:

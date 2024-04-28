@@ -1,7 +1,8 @@
 # Crestron-Pushover-Module
 
 v1.1 - Add's support for PushOver's URL attribute.  Unfortunately, my testing showed that this doesn't work to open an app.  It only works to open a webpage from a notification.  Other people in the
-PushOver community have reported this problem.  PushOver has not implemented a fix.
+PushOver community have reported this problem.  PushOver has not implemented a fix. - UPDATE 4/28/24 - I have a user reporting that using the url scheme crestron:// is properly opening the 
+Crestron Go app with iOS 17.4.1. I'm not sure if this is related to something in the specific iOS version or if Pushover released an app upate that addressed the issue.  
 
 Licensing
 
